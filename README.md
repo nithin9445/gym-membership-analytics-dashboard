@@ -21,6 +21,10 @@ gym-membership-analytics-dashboard/
 ├── data/
 └── README.md
 
+Dashboard:
+<img width="1071" height="627" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/40c52d8d-a641-47e5-b98c-ab8716316702" />
+
+
 ## 🧑‍💻 Author
 Gaddam Nithin Reddy  
 Dublin, Ireland
